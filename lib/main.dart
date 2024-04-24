@@ -1,20 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:studentapp/get_user_info.dart';
-//import "package:persistent_bottom_nav_bar/persistent_tab_view.dart";
-
-import 'package:studentapp/login_landing.dart';
-import 'package:studentapp/onboarding.dart';
-import 'package:studentapp/single_course.dart';
-import 'package:studentapp/splash_screen.dart';
 import 'package:studentapp/studentid_relogin.dart';
-import 'package:studentapp/studentlogin.dart';
 
 import 'homepage.dart';
 import 'homepage2.dart';
-import 'otp_verification.dart';
-
 void main() {
   runApp(const MyApp());
 }
